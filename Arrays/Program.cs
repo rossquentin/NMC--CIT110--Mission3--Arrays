@@ -7,6 +7,17 @@ using System.Threading.Tasks;
 
 namespace Arrays
 {
+
+    // **************************************************
+    //
+    // Title: Array
+    // Description: Test code for testing arrays
+    // Application Type: Console
+    // Author: Ross, Quentin
+    // Dated Created: 2/24/2020
+    // Last Modified: XX/XX/20XX
+    //
+    // **************************************************
     class Program
     {
         public static void Main(string[] args)
